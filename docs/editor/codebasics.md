@@ -59,6 +59,8 @@ When you have more than one editor open you can switch between them quickly by h
 
 >**Tip:** You can resize editors and reorder them. Drag and drop the editor title area to reposition or resize the editor.
 
+>**Tip:** You can close an editor by holding the `kbstyle(Ctrl)` (Mac: `kbstyle('Cmd')`) key and pressing `kbstyle(F4)`.
+
 ## Explorer
 
 The Explorer is used to browse, open, and manage all of the files and folders in your project.
